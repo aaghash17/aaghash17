@@ -1,7 +1,8 @@
-<h2 align="center">Hi there 👋, Welcome to my Github page!</h2>
+<div align="center">
+  <h2>Hi there 👋, Welcome to my Github page!</h2>
 
-
-  &nbsp;![](https://komarev.com/ghpvc/?username=aaghash17&color=brightgreen)
+  <img src="https://komarev.com/ghpvc/?username=aaghash17&color=brightgreen" />
+</div>
 
 
 <!--
