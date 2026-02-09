@@ -1,8 +1,8 @@
 <h2 align="center">Hi there 👋, Welcome to my Github page!</h2>
 
-<p align="center">
+
   &nbsp;![](https://komarev.com/ghpvc/?username=aaghash17&color=brightgreen)
-</p>
+
 
 <!--
 **aaghash17/aaghash17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
